@@ -1,3 +1,5 @@
+https://github.com/ALF-er/reactjs-and-cutting-edge-stack
+=====
 
 Babel
   - fetch, including streams
@@ -29,7 +31,7 @@ export function touchAndPrint{
 
 
 react adds data attribute
+The hash array mapped tree - индекс не хранится в самом графе, вычисляется до самой вершины
 
-The hash array mapped trie - индекс не хранится в самом графе, вычисляется до самой вершины
 Directed async graph - DAG
 react from ALF-er https://github.com/ALF-er/reactjs-and-cutting-edge-stack/tree/presentation
